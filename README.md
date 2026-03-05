@@ -47,6 +47,7 @@ Average Order Value (AOV): $842
 Insight:
 Sales peak around 2022–2023, followed by a slight decline in 2024, suggesting euphoric shopping sentiment after the pandemic. The decline could be due to depleted savings and economic fluctuations affecting income and purchasing power.
 ----More insights will be provided in dashboard section-----
+
 **5. Dashboard Overview (Executive View)**
 
 The Dashboard sheet consolidates all insights into a single, interactive page. 
